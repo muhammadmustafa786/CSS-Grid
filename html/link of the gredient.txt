@@ -1,0 +1,15 @@
+font-awsem
+
+googlefonts
+
+background: linear-gradient
+
+https://www.colorzilla.com/gradient-editor/
+
+https://www.geeksforgeeks.org/bootstrap-4-custom-forms/
+
+https://www.youtube.com/watch?v=WXfGWidDFzA
+
+https://www.youtube.com/watch?v=h7CsJ6x-sI0&list=PL0b6OzIxLPbyTHa8kl8krEvyszCKO1Uml
+
+https://geodata.solutions/  (Search for different country add by google )
